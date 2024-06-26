@@ -40,7 +40,7 @@
 
 ### 💻 Contact 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="[notion Blog](https://www.notion.so/eggis/BLOG-ae275cd9d8104c21b2543db4fbce55bb)">
+    <a href="https://www.notion.so/eggis/BLOG-ae275cd9d8104c21b2543db4fbce55bb">
         <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
     </a>
     <a href="mailto:stopyun0101@naver.com">
