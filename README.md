@@ -9,7 +9,6 @@
 -------
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbsskfk)](https://solved.ac/wldbsskfk)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyunJeong01&layout=compact"><br><br>
 
 
